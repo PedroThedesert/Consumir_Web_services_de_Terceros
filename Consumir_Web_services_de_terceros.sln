@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumir_Web_services_de_terceros", "Consumir_Web_services_de_terceros.csproj", "{DEF2273B-F7E4-439A-8BE4-525B7300E65F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEF2273B-F7E4-439A-8BE4-525B7300E65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEF2273B-F7E4-439A-8BE4-525B7300E65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEF2273B-F7E4-439A-8BE4-525B7300E65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEF2273B-F7E4-439A-8BE4-525B7300E65F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD70CB34-0A32-42ED-8DBE-277D3040FD9A}
+	EndGlobalSection
+EndGlobal
